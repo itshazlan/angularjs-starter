@@ -94,3 +94,4 @@ Please change your editor configuration like below before you start development
 
 
 See the live demo [here](https://tanmoythander.info/angular)
+# angularjs-starter
